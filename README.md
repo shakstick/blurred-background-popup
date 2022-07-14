@@ -1,7 +1,7 @@
 # blurred-background-popup
 Project for java script
 
-#### __Fully Responsive blurred background popup with: <br>
+#### __Fully Responsive blurred background popup__ with: <br>
 +  __JS__
 
 ___
